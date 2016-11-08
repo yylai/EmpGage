@@ -4,6 +4,10 @@ EmpGage is an app that helps to increase employee engagement with the company in
 
 Time spent: **X** hours spent in total
 
+## Wireframes
+
+https://www.figma.com/file/BZm7zdRVOzHLZgCwFWtIN8In/Guess-Photo-Flow
+
 ## User Stories
 
 The following **Main features** are considered:
